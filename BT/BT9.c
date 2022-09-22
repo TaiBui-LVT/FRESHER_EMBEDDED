@@ -1,5 +1,6 @@
 #include <stdio.h>
- 
+#include <stdlib.h>
+
 const int MAX = 100;
  
  
